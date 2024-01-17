@@ -9,7 +9,6 @@ There are many great tools that support Microsoft cloud. This repository contain
 |Azure CLI|[GitHub](https://github.com/Azure/azure-cli)|[Download](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli) | [Document](https://learn.microsoft.com/en-us/cli/azure/)|Azure Command-Line Interface (CLI) is a cross-platform command-line tool to connect to Azure and execute administrative commands on Azure resources. |
 |Azure Developer CLI|[GitHub](https://github.com/Azure/azure-dev)|[Download](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/install-azd?tabs=winget-windows%2Cbrew-mac%2Cscript-linux&pivots=os-windows)|[Document](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/overview)|Azure Developer CLI (azd) is an open-source tool that accelerates the time it takes for you to get your application from local development environment to Azure.|
 ||||||
-||||||
 
 ## GitHub
 
@@ -22,4 +21,5 @@ There are many great tools that support Microsoft cloud. This repository contain
 | CLI  | Official | Download | Document |Description|
 |----------|----------|----------|----------|---------|
 |CLI for Microsoft 365 |[Web](https://pnp.github.io/cli-microsoft365/) |`npm i -g @pnp/cli-microsoft365`| [Documents](https://pnp.github.io/cli-microsoft365/user-guide/installing-cli) |Using the CLI for Microsoft 365, you can manage your Microsoft 365 tenant and SharePoint Framework projects on any platform. |
+|Graph CLI|[GitHub](https://github.com/microsoftgraph/msgraph-cli)|[Download](https://learn.microsoft.com/en-us/graph/cli/installation)|[Document](https://learn.microsoft.com/en-us/graph/overview)|Microsoft Graph is the gateway to data and intelligence in Microsoft 365. It provides a unified programmability model that you can use to access the tremendous amount of data in Microsoft 365, Windows, and Enterprise Mobility + Security.|
 |||||
