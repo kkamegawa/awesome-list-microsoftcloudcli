@@ -8,7 +8,7 @@ There are many great tools that support Microsoft cloud. This repository contain
 |----------|----------|----------|----------|---------|
 |Azure CLI|[GitHub](https://github.com/Azure/azure-cli)|[Download](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli) | [Document](https://learn.microsoft.com/en-us/cli/azure/)|Azure Command-Line Interface (CLI) is a cross-platform command-line tool to connect to Azure and execute administrative commands on Azure resources. |
 |Azure Developer CLI|[GitHub](https://github.com/Azure/azure-dev)|[Download](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/install-azd?tabs=winget-windows%2Cbrew-mac%2Cscript-linux&pivots=os-windows)|[Document](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/overview)|Azure Developer CLI (azd) is an open-source tool that accelerates the time it takes for you to get your application from local development environment to Azure.|
-||||||
+|Azure Container Registry CLI|[GitHub](https://github.com/Azure/acr-cli)|[build source](https://github.com/Azure/acr-cli)|[Document](https://github.com/Azure/acr-cli)|This repository contains the source code for CLI components for Azure Container Registry. The CLI consists of a new way to interact with Container Registries, the currently supported commands include.|
 
 ## GitHub
 
