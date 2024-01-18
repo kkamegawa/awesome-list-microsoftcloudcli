@@ -11,6 +11,7 @@ There are many great tools that support Microsoft cloud. This repository contain
 |Azure Static Web CLI|[GitHub](https://github.com/Azure/static-web-apps-cli)|`npm install -g @azure/static-web-apps-cli`|[Document](https://github.com/Azure/static-web-apps-cli)|Azure Static Web Apps publishes websites to production by building apps from a code repository.|
 |Azure Container Registry CLI|[GitHub](https://github.com/Azure/acr-cli)|[build source](https://github.com/Azure/acr-cli)|[Document](https://github.com/Azure/acr-cli)|This repository contains the source code for CLI components for Azure Container Registry. The CLI consists of a new way to interact with Container Registries, the currently supported commands include.|
 |Terraform|[Web](https://www.terraform.io)|[Dwonload](https://developer.hashicorp.com/terraform/install?product_intent=terraform)|[Document](https://developer.hashicorp.com/terraform/cli)|Terraform is an infrastructure as code tool that lets you build, change, and version infrastructure safely and efficiently.|
+|Packer|[Web](https://www.packer.io/)|[Download](https://developer.hashicorp.com/packer/install?product_intent=packer)|[Document](https://developer.hashicorp.com/packer/docs)|Packer is a tool that lets you create identical machine images for multiple platforms from a single source template.|
 
 ## GitHub
 
