@@ -12,6 +12,7 @@ There are many great tools that support Microsoft cloud. This repository contain
 |Azure Container Registry CLI|[GitHub](https://github.com/Azure/acr-cli)|[build source](https://github.com/Azure/acr-cli)|[Document](https://github.com/Azure/acr-cli)|This repository contains the source code for CLI components for Azure Container Registry. The CLI consists of a new way to interact with Container Registries, the currently supported commands include.|
 |Terraform|[Web](https://www.terraform.io)|[Dwonload](https://developer.hashicorp.com/terraform/install?product_intent=terraform)|[Document](https://developer.hashicorp.com/terraform/cli)|Terraform is an infrastructure as code tool that lets you build, change, and version infrastructure safely and efficiently.|
 |Packer|[Web](https://www.packer.io/)|[Download](https://developer.hashicorp.com/packer/install?product_intent=packer)|[Document](https://developer.hashicorp.com/packer/docs)|Packer is a tool that lets you create identical machine images for multiple platforms from a single source template.|
+|Azure Cost CLI|[GitHub](https://github.com/mivano/azure-cost-cli)|`dotnet tool install --global azure-cost-cli`|[Document](https://github.com/mivano/azure-cost-cli)|This is a simple command line tool to get the cost of your Azure subscription. It uses the Azure Cost Management API to get the cost and output the results to the console, text, csv, markdown or JSON. |
 
 ## GitHub
 
