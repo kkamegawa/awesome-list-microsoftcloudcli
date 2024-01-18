@@ -10,6 +10,7 @@ There are many great tools that support Microsoft cloud. This repository contain
 |Azure Developer CLI|[GitHub](https://github.com/Azure/azure-dev)|[Download](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/install-azd?tabs=winget-windows%2Cbrew-mac%2Cscript-linux&pivots=os-windows)|[Document](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/overview)|Azure Developer CLI (azd) is an open-source tool that accelerates the time it takes for you to get your application from local development environment to Azure.|
 |Azure Static Web CLI|[GitHub](https://github.com/Azure/static-web-apps-cli)|`npm install -g @azure/static-web-apps-cli`|[Document](https://github.com/Azure/static-web-apps-cli)|Azure Static Web Apps publishes websites to production by building apps from a code repository.|
 |Azure Container Registry CLI|[GitHub](https://github.com/Azure/acr-cli)|[build source](https://github.com/Azure/acr-cli)|[Document](https://github.com/Azure/acr-cli)|This repository contains the source code for CLI components for Azure Container Registry. The CLI consists of a new way to interact with Container Registries, the currently supported commands include.|
+|Terraform|[Web](https://www.terraform.io)|[Dwonload](https://developer.hashicorp.com/terraform/install?product_intent=terraform)|[Document](https://developer.hashicorp.com/terraform/cli)|Terraform is an infrastructure as code tool that lets you build, change, and version infrastructure safely and efficiently.|
 
 ## GitHub
 
