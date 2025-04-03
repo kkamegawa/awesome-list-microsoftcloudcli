@@ -37,3 +37,9 @@ There are many great tools that support Microsoft cloud. This repository contain
 |Power Platform CLI|[Web](https://learn.microsoft.com/en-us/power-platform/developer/cli/introduction)|[Dowonload](https://learn.microsoft.com/en-us/power-platform/developer/cli/introduction)|[Document](https://learn.microsoft.com/en-us/power-platform/developer/cli/introduction)|Microsoft Power Platform CLI is a simple, one-stop developer CLI that empowers developers and ISVs to perform various operations in Microsoft Power Platform.|
 |Service Fabric CLI|[GitHub](https://github.com/microsoft/service-fabric-cli)|`pip install sfctl`|[Wiki](https://github.com/microsoft/service-fabric-cli/wiki)|Command-line interface for interacting with Azure Service Fabric clusters and their related entities.|
 |Teams Toolkit CLI|[GitHub](https://github.com/OfficeDev/TeamsFx/tree/dev/packages/cli)|`npm install -g @microsoft/teamsapp-cli`|[Document](https://learn.microsoft.com/en-us/microsoftteams/platform/toolkit/teams-toolkit-cli?pivots=version-three)|Teams Toolkit CLI is a text-based command line interface that can help scaffold, validate, and deploy applications for Microsoft Teams from the terminal or a CI/CD process.|
+
+## Others
+
+| CLI  | Official | Download | Document |Description|
+|----------|----------|----------|----------|---------|
+|Microsoft Store Developer CLI|[Web](https://learn.microsoft.com/windows/apps/publish/msstore-dev-cli/overview)|[Download](https://learn.microsoft.com/windows/apps/publish/msstore-dev-cli/commands?pivots=msstoredevcli-installer-windows#installation) | [Document](https://learn.microsoft.com/windows/apps/publish/msstore-dev-cli/overview)|The Microsoft Store Developer Command Line Interface is a cross-platform (Windows, MacOS, Linux) CLI that helps developers access the Microsoft Store APIs, for both managed (MSIX), as well as unmanaged (MSI/EXE) applications.|
