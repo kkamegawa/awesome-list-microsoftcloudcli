@@ -21,6 +21,7 @@ There are many great tools that support Microsoft cloud. This repository contain
 |Packer|[Web](https://www.packer.io/)|[Download](https://developer.hashicorp.com/packer/install?product_intent=packer)|[Document](https://developer.hashicorp.com/packer/docs)|Packer is a tool that lets you create identical machine images for multiple platforms from a single source template.|
 |Azure Cost CLI|[GitHub](https://github.com/mivano/azure-cost-cli)|`dotnet tool install --global azure-cost-cli`|[Document](https://github.com/mivano/azure-cost-cli)|This is a simple command line tool to get the cost of your Azure subscription. It uses the Azure Cost Management API to get the cost and output the results to the console, text, csv, markdown or JSON. |
 |Foundry Local CLI|[Learn](https://learn.microsoft.com/azure/foundry-local/what-is-foundry-local)|[Learn](https://learn.microsoft.com/azure/foundry-local/how-to/how-to-use-foundry-local-cli)|[Learn](https://learn.microsoft.com/windows/ai/foundry-local/get-started)|Foundry Local is an end-to-end local AI solution for shipping applications that run entirely on the user's device. It provides an easy-to-use SDK (C#, JavaScript, Rust, and Python), a curated catalog of optimized models, and automatic hardware acceleration — all in a lightweight package.|
+|Azure Cosmos DB Shell|[GitHub](https://github.com/Azure/CosmosDBShell)|`dotnet tool install --global CosmosDBShell --add-source {path} --version <version>`|[GitHub](https://github.com/Azure/CosmosDBShell#documentation)|Lightweight CLI for Azure Cosmos DB.|
 
 ## GitHub
 
